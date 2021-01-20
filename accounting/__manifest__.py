@@ -33,7 +33,7 @@
     'application': True,
     "auto_install": False,
     "installable": True,
-    "price": 10,
+    "price": 20,
     "currency": "EUR",
 
 }

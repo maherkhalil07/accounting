@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Accounting",
+    'name': "Full Features Accounting App",
     'summary': """
         Full Features Accounting App""",
 

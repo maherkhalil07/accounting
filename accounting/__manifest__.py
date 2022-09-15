@@ -17,7 +17,7 @@
     "support": "maherkhalil@outlook.com",
     "license": "OPL-1",
     'category': 'Accounting/Accounting',
-    'version': '0.1',
+    'version': '15.0.1',
     'depends': ['base', 'account'],
     'data': [
         # 'security/ir.model.access.csv',
